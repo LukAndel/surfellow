@@ -1,0 +1,24 @@
+body {
+  background-image: url("/img/20220726_181843.jpg");
+  background-size: cover;
+}
+
+.title {
+  padding: 10px;
+  text-align: center;
+  background: #5bb7ec;
+  color: white;
+  font-size: 30px;
+  border-radius: 30px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: "Edu NSW ACT Foundation", cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map*/
